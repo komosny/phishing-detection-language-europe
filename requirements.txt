@@ -1,0 +1,8 @@
+humanize==3.13.1
+matplotlib==3.8.4
+numpy==2.2.3
+pandas==2.2.3
+scikit_learn==1.4.2
+scipy==1.15.2
+tqdm==4.66.2
+wordcloud==1.9.3
